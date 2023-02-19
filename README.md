@@ -24,7 +24,7 @@ Always wanted to do something innovative which helps in reducing human effort.
 ``ADVANTAGES``
 
 Anaylisis of data
-USING SCADA SCREEN WE CAN GIVE THE ORDER TO LEAP
+Using SCADA screen we can give the command to leap as well.
 
 ``DISADVANTAGE``
 
