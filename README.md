@@ -18,6 +18,7 @@ SCADA
 when we was making of ladder logic for lift we don’t know  how to make logic but we know only working of lift  then we made input and output  list in my notbook.so it was really helpful in making ladder logic. when we was making input ladder  or output ladder initially use binary bit so we can use multiple time in program.
 
 ``INSPIRATION``
+
 WE SEE ALWAYS LIFT IN OUR FLET AND HOUSE BUT IN INDUSTRY MOST TIME VIA CREN OR MENUALLY TRANSPORT THE INSTRUMENT OR ANY THING
 
 ``ADVANTAGES``
