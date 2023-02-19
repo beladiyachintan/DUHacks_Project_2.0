@@ -1,1 +1,16 @@
 # DUHacks_Project_2.0
+
+``TITLE``
+
+``DESCRIPTION``
+
+``TECHNOLOGY USED``
+
+``PROBLEMS FACED``
+
+``INSPIRATION``
+
+``ADVANTAGES``
+
+``DISADVANTAGE``
+
