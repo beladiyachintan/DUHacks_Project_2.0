@@ -10,8 +10,7 @@ Day to day life we see normal lift in out flats. but there we no need to visuali
 
 ``TECHNOLOGY USED``
 
-PLC
-SCADA
+PLC and SCADA
 
 ``PROBLEMS FACED``
 
@@ -23,10 +22,10 @@ Always wanted to do something innovative which helps in reducing human effort.
 
 ``ADVANTAGES``
 
-Anaylisis of data like weight
-Using SCADA screen we can give the command to leap as well
+ Anaylisis of data like weight
+ Using SCADA screen we can give the command to leap as well
 
 ``DISADVANTAGE``
 
-Need electricity always
-Full heavy load then it can not work properley
+ Need electricity always
+ Full heavy load then it can not work properley.
