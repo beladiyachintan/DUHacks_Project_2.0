@@ -18,15 +18,15 @@ SCADA
 when we was making of ladder logic for lift we don’t know  how to make logic but we know only working of lift  then we made input and output  list in my notbook.so it was really helpful in making ladder logic. when we was making input ladder  or output ladder initially use binary bit so we can use multiple time in program.
 
 ``INSPIRATION``
-
-WE SEE ALWAYS LIFT IN OUR FLET AND HOUSE BUT IN INDUSTRY MOST TIME VIA CREN OR MENUALLY TRANSPORT THE INSTRUMENT OR ANY THING
+ 
+Always wanted to do something innovative which helps in reducing human effort.
 
 ``ADVANTAGES``
 
-IN INDUSTRY LEVEL TRANSPORT INSTRUMENT ONE FLOAR TO OTHER FOR
+Anaylisis of data
 USING SCADA SCREEN WE CAN GIVE THE ORDER TO LEAP
 
 ``DISADVANTAGE``
 
- NEEDS ELECTRICITY ALWAYS
- FULL HEAVY LOAD THEN IT CAN NOT WORK PROPERLEY
+Need electricity always
+Full heavy load then it can not work properley
